@@ -9,4 +9,7 @@ There was not enough volume for Melvin and friends to close out of thier positio
 the probability of a Intersteller yolo
     what are the risk factors?
 
-I would like to compare Melvin Captials positions to GME and see if there is an inverse corelation in relative price, signaling melvin liqudating to stay afloat    
+I would like to compare Melvin Captials positions to GME and see if there is an inverse corelation in relative price, signaling melvin liqudating to stay afloat   
+    -currently working on providing an iterative chart comparison between stocks
+    -I would like to create a correclation between the two
+    note** I cannot do eithier points till i fix my csv data file on stock history
